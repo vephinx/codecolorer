@@ -210,7 +210,7 @@ code.codecolorer { padding: 2px; }
 	{ color: #6D9CBE; }
 
 /* Solarized (Dark) */
-.solarized-dark, .solarized-dark .codecolorer { color: #839496; background-color: #002b36; }
+.solarized-dark, .solarized-dark .codecolorer { color: #268BD2; background-color: #002b36; }
 .solarized-dark ::selection, .solarized-dark .codecolorer ::selection { background: #073642; }
 .solarized-dark ::-moz-selection, .solarized-dark .codecolorer ::-moz-selection { background: #073642; }
 
@@ -225,11 +225,13 @@ code.codecolorer { padding: 2px; }
 .solarized-dark .codecolorer .kw1, .solarized-dark .codecolorer .kw2, .solarized-dark .codecolorer .sy1
 	{ color: #859900; }
 .solarized-dark .codecolorer .kw3, .solarized-dark .codecolorer .kw4, .solarized-dark .codecolorer .kw5, .solarized-dark .codecolorer .re2
-	{ color: #A57800; }
+	{ color: #2AA198; }
 .solarized-dark .codecolorer .solarized-dark .re0, .solarized-dark .codecolorer .re1
 	{ color: #268BD2; }
-.solarized-dark .codecolorer .br0,  .solarized-dark .codecolorer .sy0
-	{ color: #D01F1E; }
+.solarized-dark .codecolorer .br0
+	{ color: #93A1A1; }
+.solarized-dark .codecolorer .sy0
+	{ color: #CB4B16; }
 .solarized-dark .xml .re1
 	{ color: #6E9CBE; }
 .solarized-dark .xml .re0
