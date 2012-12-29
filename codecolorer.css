@@ -236,7 +236,8 @@ code.codecolorer { padding: 2px; }
 	{ color: #6E9CBE; }
 .solarized-dark .xml .re0
 	{ color: #6D9CBE; }
-
+.solarized-dark .codecolorer .kw7
+	{ color: #2AA198;}
 .codecolorer-container.solarized-dark table td.line-numbers
   { color: #839496; background-color: #073642; border-right-color: #001B26; }
 
